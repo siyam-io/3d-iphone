@@ -28,7 +28,7 @@ A premium, interactive 3D website for the iPhone 15 Pro, featuring interactive 3
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ssiyam0123/3d-iphone.git
+   git clone https://github.com/siyam-io/3d-iphone.git
    cd 3d-iphone
    ```
 
