@@ -133,7 +133,7 @@ const VideoCarousel = () => {
         break;
 
       case "video-last":
-        setVideo((pre) => ({ ...pre, isLastVideo: true }));
+        setVideo((pre) => ({ ...pre, videoId: 0, isLastVideo: false, isPlaying: true }));
         break;
 
       case "video-reset":
@@ -170,6 +170,7 @@ const VideoCarousel = () => {
                   } pointer-events-none`}
                   preload="auto"
                   muted
+                  autoPlay
                   ref={(el) => (videoRef.current[i] = el)}
                   onEnded={() =>
                     i !== 3
