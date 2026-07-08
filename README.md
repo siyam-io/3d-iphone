@@ -1,6 +1,6 @@
 # iPhone 15 Pro 3D Website
 
-### 🔗 [Live Demo](https://3d-iphone-phi.vercel.app/)
+### 🔗 [Live Demo](https://siyam-io.github.io/3d-iphone/)
 
 A premium, interactive 3D website for the iPhone 15 Pro, featuring interactive 3D model animations, high-fidelity video carousels, custom light transitions, and fluid animations.
 
