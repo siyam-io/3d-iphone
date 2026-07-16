@@ -19,7 +19,8 @@ body {
 }
 
 canvas {
-  touch-action: none;
+  touch-action: pan-y !important;
+  pointer-events: none;
 }
 
 .screen-max-width {

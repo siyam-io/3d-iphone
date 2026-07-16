@@ -1,12 +1,12 @@
-# iPhone 15 Pro 3D Website
+﻿# iPhone 15 Pro 3D Website
 
-### 🔗 [Live Demo](https://siyam-io.github.io/3d-iphone/)
+### ðŸ”— [Live Demo](https://siyam-3d-iphone.vercel.app/////)
 
 A premium, interactive 3D website for the iPhone 15 Pro, featuring interactive 3D model animations, high-fidelity video carousels, custom light transitions, and fluid animations.
 
 ---
 
-## 🚀 Features
+## ðŸš€ Features
 
 - **Interactive 3D Models**: Explore the iPhone 15 Pro in 3D, customize the colors, and switch sizes (small vs. large) smoothly.
 - **Auto-Looping Hero Video**: A beautiful introductory section with an auto-looping teaser video.
@@ -15,7 +15,7 @@ A premium, interactive 3D website for the iPhone 15 Pro, featuring interactive 3
 
 ---
 
-## 🛠️ Technology Stack
+## ðŸ› ï¸ Technology Stack
 
 - **Framework**: React 18 + Vite
 - **3D Rendering**: Three.js, `@react-three/fiber`, `@react-three/drei`
@@ -24,7 +24,7 @@ A premium, interactive 3D website for the iPhone 15 Pro, featuring interactive 3
 
 ---
 
-## 💻 Local Setup & Installation
+## ðŸ’» Local Setup & Installation
 
 1. **Clone the repository:**
    ```bash
@@ -49,6 +49,9 @@ A premium, interactive 3D website for the iPhone 15 Pro, featuring interactive 3
 
 ---
 
-## 🌐 Deployment
+## ðŸŒ Deployment
 
 This application is deployed on **Vercel**. Every push to the `main` branch on GitHub triggers an automatic deployment.
+
+
+
